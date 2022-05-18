@@ -1,0 +1,16 @@
+C:\Users\Sena\source\repos\Micelanea\bin\Debug\net5.0\Micelanea.exe
+C:\Users\Sena\source\repos\Micelanea\bin\Debug\net5.0\Micelanea.deps.json
+C:\Users\Sena\source\repos\Micelanea\bin\Debug\net5.0\Micelanea.runtimeconfig.json
+C:\Users\Sena\source\repos\Micelanea\bin\Debug\net5.0\Micelanea.runtimeconfig.dev.json
+C:\Users\Sena\source\repos\Micelanea\bin\Debug\net5.0\Micelanea.dll
+C:\Users\Sena\source\repos\Micelanea\bin\Debug\net5.0\ref\Micelanea.dll
+C:\Users\Sena\source\repos\Micelanea\bin\Debug\net5.0\Micelanea.pdb
+C:\Users\Sena\source\repos\Micelanea\obj\Debug\net5.0\Micelanea.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\Micelanea\obj\Debug\net5.0\Micelanea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\Micelanea\obj\Debug\net5.0\Micelanea.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\Micelanea\obj\Debug\net5.0\Micelanea.AssemblyInfo.cs
+C:\Users\Sena\source\repos\Micelanea\obj\Debug\net5.0\Micelanea.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\Micelanea\obj\Debug\net5.0\Micelanea.dll
+C:\Users\Sena\source\repos\Micelanea\obj\Debug\net5.0\ref\Micelanea.dll
+C:\Users\Sena\source\repos\Micelanea\obj\Debug\net5.0\Micelanea.pdb
+C:\Users\Sena\source\repos\Micelanea\obj\Debug\net5.0\Micelanea.genruntimeconfig.cache
